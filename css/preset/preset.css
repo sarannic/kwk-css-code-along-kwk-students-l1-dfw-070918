@@ -16,9 +16,9 @@ li {
 .font-style {
   font-family: 'Trebuchet MS', cursive;
   font-size: 20px;
-  color: blue;
+  color: black;
   font-weight: bold;
-  text-shadow: 10px 10px rgba(0,0,0,0.1)
+  text-shadow: 10px 10px #FFF)
 }
 .text-size {
   font-size: 200%;
