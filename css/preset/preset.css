@@ -24,6 +24,7 @@ li {
   font-size: 400%;
   text-align: center;
   font-weight: bold;
+  font-family: "Trebuchet MS";
 }
 .background {
   background: linear-gradient(red, yellow);
