@@ -57,6 +57,7 @@ li {
   background: black;
   box-shadow: 15px 15px 5px white;
   color: white;
+  font-family: "Trebuchet MS";
 }
 .rounding-edges {
   border-radius: 10px;
