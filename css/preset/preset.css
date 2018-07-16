@@ -50,7 +50,7 @@ li {
 }
 .rounding-edges {
   border-radius: 10px;
-  background: violet;
+  background: #FFF;
   padding: 4px;
 }
 .more {
