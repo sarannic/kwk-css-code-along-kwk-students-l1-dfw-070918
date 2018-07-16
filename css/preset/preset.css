@@ -34,6 +34,7 @@ li {
   text-transform: uppercase;
   letter-spacing: 25px;
   font-weight: italic;
+  text-decoration: line-through;
 }
 .borders {
   border: 3px dashed black;
