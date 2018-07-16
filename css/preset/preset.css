@@ -22,6 +22,7 @@ li {
 }
 .text-size {
   font-size: 200%;
+  text-align: center;
 }
 .background {
   background: linear-gradient(red, yellow);
