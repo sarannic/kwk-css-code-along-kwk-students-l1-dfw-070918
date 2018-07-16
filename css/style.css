@@ -9,7 +9,7 @@ body {
       font-size: 200%;
       background-color: #FFF;
       font-family: "trebuchet ms";
-      border:10px double white;
+      border:10px double black;
       text-transform: uppercase;
       letter-spacing: 20px;
       transition: rotate(-30)deg;
