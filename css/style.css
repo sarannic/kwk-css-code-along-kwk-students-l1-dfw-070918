@@ -1,6 +1,6 @@
 /* add CSS class and element and selectors here */
 body {
-      background-color: #D7EAFF;
+      background-color: linear-gradient(#D7EAFF, #FFF);
       font-size: 100%;
       font-family: "Trebuchet MS";
     }
@@ -20,6 +20,6 @@ body {
     h3 {
       font-size: 150%;
       /*text-align: center;*/
-      letter-spacing:30px;
+      /*letter-spacing:30px;*/
       font-weight: bold;
     }
