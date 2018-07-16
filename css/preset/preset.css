@@ -32,7 +32,7 @@ li {
   color: white;
   font-family: "Trebuchet MS";
   text-transform: uppercase;
-  text-align: center;
+  letter-spacing: 5px;
 }
 .borders {
   border: 3px dashed black;
