@@ -55,7 +55,7 @@ li {
   margin: 15px 0 0 15px;
   padding: 5px;
   background: lightgrey;
-  box-shadow: -15px -15px 5px white;
+  box-shadow: 15px 15px 5px white;
 }
 .rounding-edges {
   border-radius: 10px;
