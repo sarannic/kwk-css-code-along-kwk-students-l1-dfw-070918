@@ -10,7 +10,7 @@ body {
       font-family: "trebuchet ms";
       border: 5px dotted black;
       text-transform: uppercase;
-      letter-spacing: 25px;
+      letter-spacing: 20px;
       transition: rotate(-30)deg;
       text-align: center;
     }
