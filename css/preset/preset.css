@@ -27,7 +27,7 @@ li {
   background: linear-gradient(red, yellow);
 }
 .borders {
-  border: 3px dashed red;
+  border: 3px dashed black;
 }
 .page-layout {
   display: flex;
