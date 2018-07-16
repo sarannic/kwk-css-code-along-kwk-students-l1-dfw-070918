@@ -23,7 +23,7 @@ li {
 .text-size {
   font-size: 200%;
   text-align: center;
-  text
+  font-weight: bold;
 }
 .background {
   background: linear-gradient(red, yellow);
