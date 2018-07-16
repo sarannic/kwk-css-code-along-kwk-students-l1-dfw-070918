@@ -31,7 +31,7 @@ li {
   background: linear-gradient(black, white);
   color: white;
   font-family: "Trebuchet MS";
-  text-shadow: uppercase;
+  text-transform: uppercase;
 }
 .borders {
   border: 3px dashed black;
