@@ -10,6 +10,6 @@ body {
       font-family: "playfair display";
       border: 5px dotted black;
       text-transform: uppercase;
-      letter-spacing: 5px;
+      letter-spacing: 10px;
       transition: rotate(-30)deg;
     }
