@@ -59,7 +59,7 @@ li {
   color: white;
   font-family: "Trebuchet MS";
   text-transform: uppercase;
-  letter-spacing: 70px;
+  letter-spacing:40px;
 }
 .rounding-edges {
   border-radius: 10px;
