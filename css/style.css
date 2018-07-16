@@ -16,3 +16,7 @@ body {
       text-align: center;
       text-shadow: 5px 5px #C2C4C3;
     }
+    
+    h3 {
+      font-size: 150%;
+    }
