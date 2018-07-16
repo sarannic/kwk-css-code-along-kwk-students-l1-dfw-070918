@@ -28,7 +28,7 @@ li {
   text-transform: uppercase;
 }
 .background {
-  background: linear-gradient(red, yellow);
+  background: linear-gradient(black, white);
 }
 .borders {
   border: 3px dashed black;
