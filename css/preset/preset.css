@@ -75,7 +75,7 @@ li {
   text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
   line-height: 70px;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 @keyframes animationFrames{
@@ -93,7 +93,7 @@ li {
   100% {
     transform:  rotate(0deg) ;
     opacity: 1;
-    color: red;
+    color: black;
     background-color: white;
   }
 }
