@@ -7,7 +7,7 @@ body {
 .blacktea {
       font-size: 300%;
       background-color: purple;
-      font-family: courier;
+      font-family: "playfair display";
       border: 1px dotted red;
       text-transform: uppercase;
       letter-spacing: 5px;
