@@ -1,12 +1,12 @@
 /* add CSS class and element and selectors here */
 body {
-      background-color: #D5D5D5;
+      background-color: #FFDDB3;
       font-size: 100%;
     }
 
 .blacktea {
       font-size: 200%;
-      background-color: #FFDDB3;
+      background-color: #D5D5D5;
       font-family: "playfair display";
       border: 5px dotted black;
       text-transform: uppercase;
