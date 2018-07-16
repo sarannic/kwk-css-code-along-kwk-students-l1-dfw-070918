@@ -1,1 +1,26 @@
 /* add CSS class and element and selectors here */
+body {
+      background: linear-gradient(#BFDDFF, #FFF);
+      font-size: 100%;
+      font-family: "Trebuchet MS";
+      text-transform: uppercase;
+    }
+
+.blacktea {
+      font-size: 200%;
+      background-color: #FFF;
+      font-family: "trebuchet ms";
+      border:10px dotted black;
+      text-transform: uppercase;
+      letter-spacing: 20px;
+      transition: rotate(-30)deg;
+      text-align: center;
+      text-shadow: 5px 5px #C2C4C3;
+    }
+    
+    h3 {
+      font-size: 150%;
+      /*text-align: center;*/
+      /*letter-spacing:30px;*/
+      font-weight: bold;
+    }

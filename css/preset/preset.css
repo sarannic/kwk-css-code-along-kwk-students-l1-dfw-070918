@@ -14,20 +14,29 @@ li {
   height: 70px;
 }
 .font-style {
-  font-family: 'Lobster', cursive;
+  font-family: 'Trebuchet MS', cursive;
   font-size: 20px;
-  color: blue;
+  color: black;
   font-weight: bold;
-  text-shadow: 10px 10px rgba(0,0,0,0.1)
+  text-shadow: 5px 5px #D5D5D5
 }
 .text-size {
-  font-size: 200%;
+  font-size: 400%;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Trebuchet MS";
+  text-transform: uppercase;
 }
 .background {
-  background: linear-gradient(red, yellow);
+  background: linear-gradient(black, white);
+  color: white;
+  font-family: "Trebuchet MS";
+  text-transform: uppercase;
+  letter-spacing: 26px;
+  font-weight: 100;
 }
 .borders {
-  border: 3px dashed red;
+  border: 3px dashed black;
 }
 .page-layout {
   display: flex;
@@ -45,22 +54,28 @@ li {
 .margins {
   margin: 15px 0 0 15px;
   padding: 5px;
-  background: lightgrey;
-  box-shadow: -15px -15px 5px rgba(0,0,0,0.05);
+  background: black;
+  box-shadow: 15px 15px 5px white;
+  color: white;
+  font-family: "Trebuchet MS";
+  text-transform: uppercase;
+  letter-spacing:35px;
+  text-align:center;
 }
 .rounding-edges {
   border-radius: 10px;
-  background: violet;
+  background: #FFF;
   padding: 4px;
 }
 .more {
   font-size: 200%;
-  font-family: fantasy;
+  font-family: "Trebuchet MS";
   animation: animationFrames linear 300s;
   animation-iteration-count: infinite;
   text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
   line-height: 70px;
   text-align: center;
+  color: black;
 }
 
 @keyframes animationFrames{
@@ -78,7 +93,7 @@ li {
   100% {
     transform:  rotate(0deg) ;
     opacity: 1;
-    color: red;
+    color: black;
     background-color: white;
   }
 }
