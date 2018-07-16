@@ -30,6 +30,7 @@ li {
 .background {
   background: linear-gradient(black, white);
   color: white;
+  font-family: "Trebuchet MS";
 }
 .borders {
   border: 3px dashed black;
