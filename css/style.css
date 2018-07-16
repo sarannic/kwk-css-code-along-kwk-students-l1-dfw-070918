@@ -12,4 +12,5 @@ body {
       text-transform: uppercase;
       letter-spacing: 25px;
       transition: rotate(-30)deg;
+      text-align: center;
     }
