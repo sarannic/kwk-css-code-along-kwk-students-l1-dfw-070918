@@ -8,7 +8,7 @@ body {
 .blacktea {
       font-size: 200%;
       background-color: #FFF;
-      font-family: "trebuchet ms" italic;
+      font-family: "trebuchet ms";
       border:10px double black;
       text-transform: uppercase;
       letter-spacing: 20px;
